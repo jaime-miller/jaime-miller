@@ -1,4 +1,4 @@
-# Hey 👋, I'm Jaime Miller
+# Hey 👋, I'm Jaime
 
 [![Gmail Badge](https://img.shields.io/badge/-jaime.miller929@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jaime.miller929@gmail.com)](mailto:jaime.miller929@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-JaimeMiller-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaimemiller45/)](https://www.linkedin.com/in/jaimemiller45/)
@@ -14,7 +14,15 @@ In 2024, I completed the TripleTen Business Intelligence Analyst program. The cu
 
 ## About Me
 
-Hello! I'm Jaime Miller. I love being in the sun and spending time outdoors. I live with my partner and our four cats. In my free time, I enjoy playing games on my phone or iPad and watching murder mysteries and cooking competition TV shows.
+I live for SUMMER and ❤️ being in the ☀️. I live with my partner and our four cats 😻😸😺🐱
+
+![Sunshine and Cats](https://www.icegif.com/wp-content/uploads/2023/12/icegif-519.gif) 
+
+In my free time, I enjoy playing games on my phone or iPad and watching murder 🔍 and cooking 👩‍🍳 shows.   
+
+![New Gif](https://media3.giphy.com/media/xThtaluUHpTUz7knny/200w.gif?cid=6c09b952ke0y6mo28q4kjgy58etfeeu1p8y7vfprzlgbrgu5&ep=v1_gifs_search&rid=200w.gif&ct=g)
+ 
+
 
 ## GitHub Stats
 
@@ -26,6 +34,39 @@ Hello! I'm Jaime Miller. I love being in the sun and spending time outdoors. I l
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-miller&layout=compact)](https://github.com/jaime-miller/github-readme-stats)
 
 ## Let's Connect
+
+- **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
+- **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
+
+## Let's Connect
+
+- **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
+- **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
+
+## Let's Connect
+
+- **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
+- **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
+
+  <img src='https://komarev.com/ghpvc/?username=jaime-miller' alt='jaime-miller' />
+</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaime-miller&show_icons=true&include_all_commits=true)](https://github.com/jaime-miller/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-miller&layout=compact)](https://github.com/jaime-miller/github-readme-stats)
+
+## Let's Connect
+
+- **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
+- **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaime-miller&show_icons=true&include_all_commits=true)](https://github.com/jaime-miller/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-miller&layout=compact)](https://github.com/jaime-miller/github-readme-stats)
+
+## Let's Connect
+
+- **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
+- **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
 
 - **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
 - **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
