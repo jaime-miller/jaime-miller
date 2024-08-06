@@ -10,7 +10,7 @@ With over 20 years of experience in the call center industry, I have honed my ex
 
 As I transition into the Business Intelligence and Data Analysis field, I aim to leverage my experience to provide actionable insights that drive call center performance improvements. By utilizing data analytics, I seek to identify trends, optimize processes, and deliver strategies that elevate customer experiences and operational efficiency.
 
-In 2024, I enrolled in the TripleTen Business Intelligence Analyst program. The curriculum covered business analytics, advanced spreadsheets in Excel, data visualization (Tableau), Power BI, SQL, and more. It also involved numerous practical projects.
+In 2024, I completed the TripleTen Business Intelligence Analyst program. The curriculum covered business analytics, advanced spreadsheets in Excel, data visualization (Tableau), Power BI, SQL, and more. It also involved numerous practical projects.
 
 ## About Me
 
