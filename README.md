@@ -14,13 +14,12 @@ In 2024, I completed the TripleTen Business Intelligence Analyst program. The cu
 
 ## About Me
 
-I live for SUMMER and ❤️ being in the ☀️. I live with my partner and our four cats 😻😸😺🐱
+* I live for SUMMER and ❤️ being in the ☀️.
+* I live with my partner and our four cats 😻😸😺🐱
+* In my free time, I enjoy playing games on my phone or iPad 📱 and watching murder 🔍 and cooking 👩‍🍳 shows.
+* My goals for 2024: landing an incredible job in data where I can work from anywhere so I can travel ✈️ the world 🌏!  
 
-![Sunshine and Cats](https://www.icegif.com/wp-content/uploads/2023/12/icegif-519.gif) 
 
-In my free time, I enjoy playing games on my phone or iPad and watching murder 🔍 and cooking 👩‍🍳 shows.   
-
-![New Gif](https://media3.giphy.com/media/xThtaluUHpTUz7knny/200w.gif?cid=6c09b952ke0y6mo28q4kjgy58etfeeu1p8y7vfprzlgbrgu5&ep=v1_gifs_search&rid=200w.gif&ct=g)
  
 
 
