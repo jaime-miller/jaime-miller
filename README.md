@@ -38,38 +38,11 @@ In my free time, I enjoy playing games on my phone or iPad and watching murder ð
 - **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
 - **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
 
-## Let's Connect
-
-- **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
-- **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
-
-## Let's Connect
-
-- **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
-- **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
-
   <img src='https://komarev.com/ghpvc/?username=jaime-miller' alt='jaime-miller' />
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaime-miller&show_icons=true&include_all_commits=true)](https://github.com/jaime-miller/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-miller&layout=compact)](https://github.com/jaime-miller/github-readme-stats)
-
-## Let's Connect
-
-- **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
-- **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaime-miller&show_icons=true&include_all_commits=true)](https://github.com/jaime-miller/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-miller&layout=compact)](https://github.com/jaime-miller/github-readme-stats)
-
-## Let's Connect
-
-- **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
-- **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
-
-- **Email**: [jaime.miller929@gmail.com](mailto:jaime.miller929@gmail.com)
-- **LinkedIn**: [Jaime Miller](https://www.linkedin.com/in/jaimemiller45/)
 - **GitHub**: [jaime-miller](https://github.com/jaime-miller/)
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
