@@ -12,6 +12,8 @@ As I transition into the Business Intelligence and Data Analysis field, I aim to
 
 In 2024, I completed the TripleTen Business Intelligence Analyst program. The curriculum covered business analytics, advanced spreadsheets in Excel, data visualization (Tableau), Power BI, SQL, and more. It also involved numerous practical projects.
 
+I am currently working on the Career Acceleration Program as well as a project in basic Python!
+
 ## About Me
 
 * I live for SUMMER and ❤️ being in the ☀️.
